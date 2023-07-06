@@ -302,4 +302,9 @@ big datset plat disease datset 5000 images
 [1:28 PM, 7/6/2023] Monk: big car damage
 [1:28 PM, 7/6/2023] Monk: https://universe.roboflow.com/skillfactory/car-damage-c1f0i
 
+
+big fish tank daste aquarium 
+
+https://universe.roboflow.com/final-dinner/detect-for-me/dataset/1
+
   
